@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The debates in deposing kings; and the royal succession of Great Britain</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82029</idno>
+            <idno type="STC">Wing D510</idno>
+            <idno type="STC">ESTC R225317</idno>
+            <idno type="EEBO-CITATION">99897214</idno>
+            <idno type="PROQUEST">99897214</idno>
+            <idno type="VID">135731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2480:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The debates in deposing kings; and the royal succession of Great Britain</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. I.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Succession --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135731:1" rendition="simple:additions"/>
+            <head>THE DEBATES IN Depoſing Kings; And of the ROYAL SUCCESSION OF GREAT BRITAIN.</head>
+            <head type="sub">
+               <hi>The Succeſſion to the Crown of</hi> Great Brittain.</head>
+            <p>THE Monarch of <hi>Great Brittain</hi> has Right to the Imperial Crown of this Iſland by Inheritance, according to the Laws of GOD and Nature, and the fundamental Conſtitutions of the Realms of <hi>England</hi> and <hi>Scotland,</hi> which both agree in this, That, upon the Death of the King, the next of the Kindred, though born out of the Dominions of <hi>Great Brittain,</hi> or born of Parents, not Subjects of <hi>Great Britain,</hi> is immediately King before any Proclamation, Coro<g ref="char:EOLhyphen"/>nation, Publication, or Conſent of Peers or People.</p>
+            <p>The Rule of Inheritance, given by GOD himſelf to the People of <hi>Iſrael,</hi> is this: <hi>If a man die, and have no Son, then he ſhall cauſe his Inheritance to paſs unto his Daughter. And if he have no Daugh<g ref="char:EOLhyphen"/>ter, then ye ſhall give his Inheritance unto his Brethren.</hi>
+            </p>
+            <p>Agreeably to which Rule, the Crown of <hi>Great Britain</hi> deſcends, as an inalinable Heritage, from the Father to the Eldeſt Son and his Heirs; for want of Sons to the Eldeſt Daughter, and her Heirs; for want of Daughters to the Brother and his Heirs; and for want of Brethren, to the Siſter and her Heirs.</p>
+            <p>And ſo unalterable is this Courſe of Deſcent, that no Act, no Crime, no Attainder of Treaſon, can bar the next of Blood from being King in the inſtant of Time, his Predeceſſor does not ſo much die, as by a State-<hi>Metempſychoſis</hi> tranſmit his Life, his Breath, or his Soul into the Noſtrils, the Body of his Succeſſor.</p>
+            <p>For Hereditary Monarchy being (as it has been clearly demonſtrated) an immediate Ordinance of GOD, founded in the Prime Laws of Nature, and the Laws of GOD and Nature being (as all <hi>Chriſtians</hi> acknowledge) abſolutely immutable, it is a Madneſs to think, that any Act of Parliaments can change this unchangeable Law, or, with the leaſt Color of Juſtice, alter the Right of Succeſſion.</p>
+            <p>This was well known to all our antient Parliaments, that were neither over-awed by any prevailing Faction ſeduced by deſigning Intreagues, nor yet vainly flattered themſelves with an Omnipotent Power to create and annihilate Kings: In one of which the States of the Realm unanimouſly anſwered King <hi>Edward</hi> the IIId. asking their Advice in matters, relating to the Crown: <hi>That they could not conſent to any thing in Parliament, that tended to the Diſheriſon of the King, and his Heirs, or the Crown, whereunto they were ſworn.</hi> From whence Sir <hi>Edward Cook</hi> concludes, <hi>That it is a Law and Cuſtom of Parliament, that no King can alien the Crown from the right Heir, though by conſent of the Lords and Commons.</hi> And elſewhere affirming King <hi>John</hi>'s Reſignation of the Crown to the Pope to have been utterly void, he alledges this Reaſon: <hi>Becauſe the Royal Dignity is an Inherent inſeparable to the Royal Blood of the King, deſcendable to the next of Blood to the King, and cannot be transferd to another.</hi>
+            </p>
+            <p>And although by the Treaſons and Conſpiracies of ambitious, diſloyal, and deſigning Perſons, the Crown has now and then been transferred from one Family to another, yet does it appear in Story? that ſince the time of the <hi>Norman</hi> Conqueſt the right Heir was never yet kept out beyond the ſecond Deſcent. And to the Honour of the <hi>Engliſh</hi> Parliaments we can aver, that never any Uſurper (though armed with Power) laid claim to the Crown in Parliament, but by pretending to be of the Right
+<pb n="2" facs="tcp:135731:2" rendition="simple:additions"/>Line; nor did ever the Parliament allow of ſuch Pretence, if falſe, but awed by Fear and a vaſt Army. And whenever, the Terror of ſuch armed violence being removed, the true Heir was enabled to claim his Right, the Parliament, notwithſtanding all ſuch pretended Acts, readily ſubmitted them<g ref="char:EOLhyphen"/>ſelves to their legitimate Prince, as being bound thereunto by the Laws of GOD and Nature.</p>
+            <p>Thus although <hi>Henry,</hi> Duke of <hi>Lancaſter,</hi> backt by an Army of fourty or fifty thouſand men, under Pretence of a feigned Title from <hi>Edmund Crouchback,</hi> forced his Nature Soveraign, King <hi>Richard</hi> the IId. firſt to reſign, and afterwards to be depoſed from his Crown, which, waving his former pretended Title, he cauſed to be entailed upon himſelf, his four Sons, and the Heirs of their Bodies, by Act of Parliament, whereby he thought to have ſecured it to his Poſterity for ever; Yet, notwith<g ref="char:EOLhyphen"/>ſtanding theſe cautious Proviſions, ſeconded by the Valor and prodigious Succeſs of that noble Prince <hi>Henry</hi> the Vth. when in the year 1460. this Entail was alledged againſt <hi>Richard</hi> Duke of <hi>York,</hi> laying claim in Parliament to the Crowns of <hi>England</hi> and <hi>F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance,</hi> as being the next Heir to <hi>Lionel</hi> Duke of <hi>Clarence,</hi> elder Brother to <hi>John</hi> of <hi>Gaunt,</hi> of whom the Houſe of <hi>Lanchaſter</hi> was deſcended, the Duke of <hi>York</hi> unanſwerably replied, <hi>That, if King <hi>Henry</hi> the <hi>IVth.</hi> might have obtained the ſaid Crowns of <hi>England</hi> and <hi>France</hi> by Title of Inheritance, Diſcent, or Succeſſion, he neither needed, nor would have deſired, or made them to be granted too him in ſuch wiſe, as they be by that Act: Which (<hi>ſaid he</hi>) taketh no place, neither is of any force, or effect againſt him, that is right Inheritor of the ſaid Crowns as accordeth with the Laws of GOD, and all Natural Laws.</hi> Which Anſwer of the Duke of <hi>York,</hi> and his Claim to the Crown, was by the ſame Parliament expreſly recognized and declared to be <hi>Good, True, Juſt, Lawful,</hi> and <hi>Sufficient.</hi>
+            </p>
+            <p>And when in the ſame year <hi>Edward</hi> Earl of <hi>March,</hi> eldeſt Son to the ſaid Duke of <hi>York,</hi> upon the death of his Father, took poſſeſſion of the Crown by the Name of King <hi>Edward</hi> the IVth. his Title was in full Parliament by all acknowledged in theſe words: <hi>Knowing alſo certainly, and without doubt and ambiguity, that by GOD's Law, and the Law of Nature, He</hi> (viz. the ſaid King <hi>Edward</hi>) <hi>and none other, is, and ought to be true, Rightwiſe, and Natural Liege and Soveraign Lord: And that he was in right, from the Death of the ſaid Noble and Famous Prince his Father, very juſt King of the ſame Realm of</hi> England. And ſo little Reſpect was given to the aforementioned Act of Entail, that it was not ſo much as re<g ref="char:EOLhyphen"/>pealed, being eſteemed from the very beginning null and void in it ſelf. Nor indeed were any Acts of <hi>Henry</hi> the IVth. Vth. or VIth. (ſtiled <hi>Kings in Deed and not of Right</hi>) deemed to be in force, but ſuch, as were expreſly confirmed by <hi>Edward</hi> the IVth. in the ſame manner, King <hi>Charles</hi> the IId. confirmed the judicial Proceedings of the late Uſurpation.</p>
+            <p>As little Succeſs had that Monſter of Nature, <hi>Richard</hi> Duke of <hi>Gloceſter,</hi> who, being by the In<g ref="char:EOLhyphen"/>tereſt of ſeveral factious Lords choſen Protector to his Nephew, the young K<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g <hi>Edward</hi> the Vth. and having by that means gotten into his hands the Military Force of the Nation, pretending, that the Children of his Brother King <hi>Edward</hi> the IVth. were illegitimate, laid claim to the Crown, which he not only entailed by Act of Parliament upon himſelf and his Iſſue, but the better to ſecure it in his Line, cauſed the Innocent young King, and his only Brother, the Duke of <hi>York,</hi> to be barbarouſly murthered in the <hi>Tower;</hi> yet did he within three years loſe both his Crown and Life to <hi>Henry</hi> Earl of <hi>Richmond,</hi> on whom, and his Heirs, it was again by Act of Parliament entailed, which yet would little have availed him or his Poſterity, had he not prudently (ac<g ref="char:EOLhyphen"/>cording to his promiſe, by which ſeveral of the Nobility were induced to aſſiſt him) mar<g ref="char:EOLhyphen"/>ried <hi>Elizabeth,</hi> eldeſt Daughter of King <hi>Edward</hi> the IVth. and immediate Heireſs of the Crown, whereby, happily turning his Uſurpation into a lawful Soveraignty, he ſecure himſelf in the Throne.</p>
+            <p>But that his Iſſue by any other Lady could not have had better Succeſs againſt the Princely Houſe of <hi>York,</hi> than <hi>Adonijah</hi> had againſt <hi>Salomon,</hi> may more than probably be preſumed, if we ſhall conſider, what Fate attended the many mad Acts, made by <hi>Henry</hi> the VIIIth. about the Succeſſion.</p>
+            <p>This haughty Prince, whoſe capricious Humor none of his Parliaments durſt gainſay, having after above twenty years Cohabition divorced his Queen, a chaſt and vertuous Lady, did in the twenty fifth year of his Reign diſinherit by Act of Parliament the Lady <hi>Mary</hi> his Daughter by her, ſettling the Crown by ſpecial Words, for want of Iſſue Male, on his Iſſue Female by the Lady <hi>Anne Bullen:</hi> To the ob<g ref="char:EOLhyphen"/>ſervation of which Act the whole Nation was obliged by an Oath, impoſed the year following, the Re<g ref="char:EOLhyphen"/>fuſal of which Oath was adjudged <hi>Miſpriſion of Treaſon.</hi> And yet in the twenty eighth year of his Reign he baſtardized and made illegitimate to all intents and purpoſes (as he had done formerly the Iſſue of Queen <hi>Katherine</hi>) the Iſſue betwixt him and the Lady <hi>Anne Bullen,</hi> barring them to <hi>claim, challenge, or demand any Inheritance, as Lawful Heir, or heirs to him by Lineal Deſcent;</hi> making it Treaſon for any one (not<g ref="char:EOLhyphen"/>withſtanding their former Oath) by <hi>Words, Writing, Printing, or any other exterior Act directly, or in<g ref="char:EOLhyphen"/>directly to call any of the Children, born under the unlawful Marriages of</hi> Katherine <hi>and</hi> Anne Bullen, <hi>legiti<g ref="char:EOLhyphen"/>mate;</hi> and enacting, that caſe he had no Iſſue by <hi>Jane</hi> (his then Queen) he might diſpoſe of the Crown to whatſoever perſon or perſons, he pleaſed, the whole Nation being bound to the obſervance of this Law by the Sanctimony of an Oath, the refuſal whereof was made High Treaſon. After all this, in the thirty fifth year of his Reign he by another Act entailed the Crown on himſelf, Prince <hi>Edward,</hi> and the Princeſſes <hi>Mary,</hi> and <hi>Elizabeth,</hi> (without repealing the former Acts, or taking the leaſt notice of their being ſo ſignally baſtardized (and for default of Heirs of their Bodies, on ſuch perſon or perſons, as he ſhould nominate by his Letters Patents under his Great Seal, or by his <hi>laſt Will in writing, ſigned by his moſt Gracious Hand,</hi> the whole Nation being again ſworn to obſerve his pleaſure herein: Conſe<g ref="char:EOLhyphen"/>quently whereunto he by ſuch his laſt Will and Teſtament ſolemnly bequeathed the Crown, upon failure of his own Iſſue, to the Houſe of <hi>Suffolk,</hi> and his Act of Parliament lay) the Iſſue of his Elder Siſter, means from the Throne, (as much in him, and his Act of Parliament lay) the Iſſue of his Elder Siſter, whoſe <hi>Royal Blood</hi> he affirmed <hi>the cold Air of</hi> Scotland, <hi>to have frozen up in the North.</hi> Yet when after
+<pb n="3" facs="tcp:135731:3" rendition="simple:additions"/>the Death of his Three Children, reigning ſucceſſively, theſe diſinheriting Statutes (the laſt whereof was confirmed by Act of Parliament in the firſt year of Queen <hi>Elizabeth,</hi> in whoſe thirteenth year there paſſed alſo an Act, That it ſhould be Treaſon, during her Life, and a <hi>Praemunire</hi> afterwards, to aſſert<g ref="char:punc">▪</g> that the Imperial Crown of <hi>England</hi> could not be diſpoſed of by Act of Parliament) came to the Teſt, they had not the Honor to be repealed, but were held null and void from the beginning, as being noto<g ref="char:EOLhyphen"/>riouſly repugnant to the Laws of GOD and Nature, and the common Cuſtoms and Conſtitutions of the Realm. And the Lords Spiritual and Temporal and the Commons aſſembled in Parliament (notwith<g ref="char:EOLhyphen"/>ſtanding all theſe unrepealed Acts (having confeſt the <hi>Ineſtimable and unſpeakable Bleſſings</hi> accrewing from the <hi>
+                  <g ref="char:V">Ʋ</g>nion of</hi> England <hi>and</hi> Scotland <hi>under one Imperial Crown in the Perſon of King</hi> James, <hi>lineally, rightfully and lawfully, deſcended of the moſt Excellent Lady</hi> Margaret, <hi>Eldeſt Daughter, of the moſt renowned King</hi> Henry <hi>the VIIth. and the high and noble Princeſs Queen</hi> Elizabeth, <hi>his Wife, eldeſt Daughter of King</hi> Edward <hi>the IVth.</hi> proceeded to the Recognition of his Title in theſe Words: <hi>We, being bounden thereunto both by the Laws of GOD and Man, do recognize and acknowledge that immediately upon the Diſſolution and Deceaſe of</hi> Elizabeth, <hi>late Queen of</hi> England, <hi>the Imperial Crown of the Realm of</hi> England, <hi>and all the Kingdoms, Dominions, and Rights, belonging to the ſame, did by inherent Birthright, and lawful and undoubted Succeſſion deſcend and come to your moſt Excellent Majeſty, as being lineally, juſtly, and lawfully next and ſole Heir of the Blood Royal of this Realm: And that by the Goodneſs of GOD Almighty, and lawful Right of Deſcent Your Majeſty is under one Imperial Crown of the Realms and Kingdoms of</hi> England, Scotland, France, <hi>and</hi> Ireland <hi>the moſt potent and mighty King. And thereunto we moſt humbly and faithfully do ſubmit and oblige our ſelves, our Heirs, and our Poſterities for ever.</hi> And ſome years after it was by all the Judges of <hi>England</hi> expreſly reſolved in <hi>Calvins</hi> Caſe: <hi>That King</hi> James <hi>his title to the Crown was founded upon the Laws of Nature,</hi> viz. <hi>by inherent Birthright, and Deſcent from the Blood Royal of this Realm.</hi>
+            </p>
+            <p>All Acts of Parliament then for excluding from the Throne the next Heir of the Blood Royal, on whom the Crown deſcends by the <hi>Laws of God and Nature,</hi> by <hi>inherent Birthright,</hi> and <hi>undoubted Suc<g ref="char:EOLhyphen"/>ceſſion,</hi> being <hi>ipſo facto</hi> null and void, it is not to be wondred, that his preſent Sacred Majeſty ſo con<g ref="char:EOLhyphen"/>ſtantly declared, that he would never conſent to alter the Deſcent of the Crown in the right Line, as not being willing, by ſhewing, his People a Method of diſpoſing the Succeſſion, to ſhake at the ſame time the Title of his own Poſſeſſion: Since it is evident, that the Heir apparent, or next of Blood hath the ſame Right to enjoy the Crown after his Predeceſſors Death, as the Actual Poſſeſſor hath to it, during his Life.</p>
+            <p>But well fare the noble Lords of <hi>England,</hi> who (with a <hi>Nolumus Leges</hi> Angliae <hi>mutari</hi>) rejected that abominable Bill, which, though it would, if paſſed an Act, have been of no greater Force or Vali<g ref="char:EOLhyphen"/>dity, than the Wild Ordinances of the Rebellious Parliament of 1640. yet might it (as they were) be made uſe of to induce the deluded Multitude to hazard their Souls, Bodies, and Eſtates by a damnable Oppoſition of their Lawful Soveraign, and to raiſe up a Conteſt in this Nation, not unlike to the old <hi>Yorkiſh</hi> and <hi>Lancaſtrian</hi> Quarrel, the Thoughts whereof every good Man muſt certainly dread, when he ſhall ſeriouſly conſider, how that War laſted about ſixty years, and coſt the Kingdom its whole Treaſure, and the Lives of above two hundred thouſand of the Commons, beſides ſeveral Kings and Princes, and Nobles without number.</p>
+            <p>So ſenſible was the renowned Queen <hi>Elizabeth,</hi> of thoſe fatal Conſequences, which neceſſarily attend ſo unjuſt an Act, as that of altering the Succeſſion, that, although for Reaſons obvious enough (and needleſs here to be mentioned) ſhe yielded to paſs an Act, whereby it was made Treaſon to ſay that ſhe and her Parliament could not diſpoſe of the Crown, yet could ſhe never be brought to give her Conſent to the actual diſpoſing thereof, though the next Heir, then alive, was not only a Papiſt, but her own Rival to the Throne. Nay ſhe was ſo averſe to any ſuch Act, that (as <hi>Camden,</hi> tells us,) <hi>She never heard any thing more unwillingly, than that the Title of Succeſſion ſhould be called into queſtion. And therefore ſhe ſent Mr.</hi> Thornton <hi>Reader of Law in</hi> Lincolns-Inn, <hi>to the Tower, becauſe in his Reading he called in queſtion the Queen</hi> of Scots <hi>Title to the Crown.</hi> And when the Lord Keeper <hi>Bacon</hi> was accuſed by the Earl of <hi>Leiceſter</hi> for having intermedled againſt the Queen of <hi>Scots</hi> Right to the Succeſſion, and for being privy to a Book, wherein <hi>Hales</hi> went ahout to derive the Title of the Crown of <hi>England,</hi> in caſe the Queen ſhould die without Iſſue, to the Houſe of <hi>Suffolk, Hales</hi> was therefore committed to the Tower, and <hi>Bacon,</hi> though denying it, was not without great difficulty reſtored to favour. So likewiſe, when in the eighth year of her Reign, <hi>Bell Mounſon,</hi> and a great Number of the Houſe of Commons, thought it their Right, as Re<g ref="char:EOLhyphen"/>preſentatives of the whole Kingdom, whereof they do not in reality repreſent the ſixth part, to decide and ſettle the Succeſſion, the Queen by a Prince-like Speech in the Parliament-Houſe ſpeedily ſuppreſſed their inſolence. In like manner when in the thirty fifth year of her Reign Mr. <hi>Peter Wentworth</hi> and Sir <hi>Henry Bromley</hi> delivered a Petition to the Lord Keeper, deſiring the Lords of the Upper Houſe to be Suppliants with them of the Lower to Her Majeſty for entailing the Succeſſion of the Crown, for which they had a Bill ready drawn, the Queen highly diſpleaſed hereat, charged her Councel to call the Parties before them: Whereupon Sir <hi>Thomas Henage,</hi> ſending for them, commanded them to forbear the Parlia<g ref="char:EOLhyphen"/>ment, and not to go out of their ſeveral Lodgings. They were after called before the Lord Treaſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, Lord <hi>Buckhurſt,</hi> Sir <hi>Thomas Henage,</hi> by whom <hi>Wentworth</hi> was committed to the Tower, Sir <hi>Henry Bromley,</hi> and other Members of the Houſe of Commons, to whom he had imparted the matter, being ſent <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the <hi>Fleet.</hi> So careful was this prudent Queen to keep the People from preſuming to intermeddle with the Succeſſion.</p>
+            <p>The ſame Conſideration, that the <hi>Altering or Diverting the Succeſſion</hi> in an hereditary Monarchy, where <hi>the Kings (deriving their Royal Power from GOD Almighty alone) do ſucceed lineally</hi> to the Crown, <hi>according to the known Degrees of Proximity in Blood, cannot be attempted without involving the Subjects in Purjury and Rebellion, and expoſing of them to all the Fatal and Dreadful Conſequences <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f a Civil War,</hi> not only cauſed the Eſtates of <hi>Scotland from an hearty and ſincere Sense of their
+<pb n="4" facs="tcp:135731:4" rendition="simple:additions"/>Duty to recognize, acknowledge, and declare, That the Right to the Imperial Crown of that Realm is (by the Inherent Right, and the Nature of the Monarchy, as well as by the Fundamental and unalterable Laws of the Realm) tranſmitted and devolved by a Lineal Succeſſion according to the Proximity of Blood; And that upon the Death of the King or Queen, who actually Reigns, the Subjects of that Kingdom are bound by Law, Duty and Allegiance to obey the next immediate and lawful Heir, either Male or Fe<g ref="char:EOLhyphen"/>male, upon whom the Right and Adminiſtration of Government is immediately devolved; And that no Dif<g ref="char:EOLhyphen"/>ference in Religion nor no Law, nor Act of Parliament, made, or to be made, can alter or divert the Right of Succeſſion and Lineal Deſcent of the Crown to the neareſt and lawful Heir, according to the Degrees aforeſaid; nor can ſtop or hinder them in the full, free and actual Adminiſtration of the Government, according to the Laws of the Kingdom;</hi> but are obliged for the preſervation of the Peace and Tranquillity of that Kingdom, <hi>with Advice and Conſent of the ſaid Eſtates of Parliament, to declare, That it is High Treaſon in any of the Subjects of that Kingdom, by Writing, Speaking, or any other manner of way, to endeavour the Alteration, Suſpenſion, or Diverſion of the ſaid Right of Succeſſion, or the debarring the next lawful Succeſſor from the immediate, actual, full, and free Admini<g ref="char:EOLhyphen"/>ſtration of the Government.</hi>
+            </p>
+            <p>Nor is it to be doubted, but that the Commons of <hi>England,</hi> who now begin to grow ſenſible of thoſe Precipices of Ruine, whereinto they were ready to tumble through the Contrivances of thoſe malicious Incendiaries, that by terrifying the People with panick Fears, and Arbitrary Power en<g ref="char:EOLhyphen"/>deavoured to kindle a Fire of Rebellion in this Nation, will, whenever it ſhall pleaſe their Ma<g ref="char:EOLhyphen"/>jeſty to call a Parliament, ſhew themſelves no leſs Zealous (than the <hi>Scots</hi>) to aſſiſt and defend (according to their Oaths) the Rights and Priviledges, the chiefeſt whereof, upon which all the reſt depend, as on a Corner Stone, is the unalterable Hereditarineſs of the Monarchy, and thereby defeat the Deſignes of thoſe curſed <hi>Achithophels,</hi> who labour by involving us in Confuſion to eſtabliſh their beloved Democracy, the very worſt of Tyrannies.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H.I.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
